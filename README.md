@@ -32,9 +32,9 @@ I’m currently pursuing my **Master’s in Computer Science at Georgia Tech**, 
 
 | 🚀 Project | 🔧 Description | 💻 Tech |
 |-------------|----------------|---------|
-| [**2024 Swift Student Challenge Winner**](https://github.com/ZTW21/StudentSwiftChallenge) | Short, catchy one-liner about what it does or solves | e.g. SwiftUI, AWS, Flask |
-| [**SwimCloud Points Prediction Model**](https://github.com/ZTW21/SwimCloud-Points-Prediction-Model) | Another quick summary that makes people curious | e.g. Node.js, Go, PostgreSQL |
-| [**France Public Transport Clustering**](https://github.com/ZTW21/France-Public-Transport-Clustering) | Fun or exploratory project worth showing off | e.g. Python, AI, OpenCV |
+| [**2024 Swift Student Challenge Winner**](https://github.com/ZTW21/StudentSwiftChallenge) | | |
+| [**SwimCloud Points Prediction Model**](https://github.com/ZTW21/SwimCloud-Points-Prediction-Model) | | |
+| [**France Public Transport Clustering**](https://github.com/ZTW21/France-Public-Transport-Clustering) | |
 
 ---
 
